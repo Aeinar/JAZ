@@ -1,0 +1,6 @@
+domain\Address.class
+domain\Person.class
+services\filters\PersonServicesFilter.class
+domain\LoanApplication.class
+domain\LoanParameters.class
+services\LoanService.class
