@@ -1,14 +1,14 @@
 Zapisanie nowego filmu/aktualizacja:
 
 {
-"title" : "Dzia≥a na gawrony",
+"title" : "Dzia≈Ça na gawrony",
 "year" : "1961"
 }
 
 Dodanie komentarza do filmu:
 
 {
-"content" : "Film wojenny z 1961 roku na podstawie powieúci Alistaira MacLeana"
+"content" : "Film wojenny z 1961 roku na podstawie powie≈õci Alistaira MacLeana"
 }
 
 Dodanie oceny do filmu:
@@ -24,37 +24,7 @@ Zapisanie nowego aktora/aktualizacja:
 "surname" : "Peck"
 }
 
-Dodanie okreúlonego id filmu do aktora (dodaje teø aktora filmu):
-
-{
-"id" : 1
-}Zapisanie nowego filmu/aktualizacja:
-
-{
-"title" : "Fight Club",
-"year" : "1999"
-}
-
-Dodanie komentarza do filmu:
-
-{
-"content" : "Kultowy film na podstawie powieúci Chuck'a Palahniuk'a"
-}
-
-Dodanie oceny do filmu:
-
-{
-"rating" : 10
-}
-
-Zapisanie nowego aktora/aktualizacja:
-
-{
-"name" : "Brad",
-"surname" : "Pitt"
-}
-
-Dodanie filmu o okreúlonym id do aktora (jednoczeúnie dodaje aktora filmu):
+Dodanie okre≈õlonego id filmu do aktora (dodaje te≈º aktora filmu):
 
 {
 "id" : 1
